@@ -1,2 +1,2 @@
-# my-website
-Intro
+# First-Day Site
+Day 1
